@@ -4,4 +4,4 @@
 
 Here are some example screenshots for the app:
 
-![Alt text](Screenshot_20200408-221636.jpg?raw=true "Title")
+<img src="Screenshot_20200408-221636.jpg" height="128"/>
