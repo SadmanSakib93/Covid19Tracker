@@ -4,4 +4,4 @@
 
 Here are some example screenshots for the app:
 
-<img src="Screenshot_20200408-221636.jpg" height="512"/>
+<img centering src="Screenshot_20200408-221636.jpg" height="1024"/>
